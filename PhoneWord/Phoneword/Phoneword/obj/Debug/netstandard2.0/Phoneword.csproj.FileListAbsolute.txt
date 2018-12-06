@@ -1,0 +1,12 @@
+A:\Téléchargements\PhoneWord\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+A:\Téléchargements\PhoneWord\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+A:\Téléchargements\PhoneWord\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+A:\Téléchargements\PhoneWord\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+A:\Téléchargements\PhoneWord\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+A:\Téléchargements\PhoneWord\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+A:\Téléchargements\PhoneWord\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+A:\Téléchargements\PhoneWord\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+A:\Téléchargements\PhoneWord\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+A:\Téléchargements\PhoneWord\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+A:\Téléchargements\PhoneWord\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+A:\Téléchargements\PhoneWord\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb

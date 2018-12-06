@@ -1,0 +1,12 @@
+B:\Documents\Licence Info\Maraudeur\Maraudeur\Maraudeur\bin\Debug\netstandard2.0\Maraudeur.deps.json
+B:\Documents\Licence Info\Maraudeur\Maraudeur\Maraudeur\bin\Debug\netstandard2.0\Maraudeur.dll
+B:\Documents\Licence Info\Maraudeur\Maraudeur\Maraudeur\bin\Debug\netstandard2.0\Maraudeur.pdb
+B:\Documents\Licence Info\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\Maraudeur.csprojAssemblyReference.cache
+B:\Documents\Licence Info\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\App.xaml.g.cs
+B:\Documents\Licence Info\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+B:\Documents\Licence Info\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\Maraudeur.csproj.CoreCompileInputs.cache
+B:\Documents\Licence Info\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\Maraudeur.AssemblyInfoInputs.cache
+B:\Documents\Licence Info\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\Maraudeur.AssemblyInfo.cs
+B:\Documents\Licence Info\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\XamlC.stamp
+B:\Documents\Licence Info\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\Maraudeur.dll
+B:\Documents\Licence Info\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\Maraudeur.pdb

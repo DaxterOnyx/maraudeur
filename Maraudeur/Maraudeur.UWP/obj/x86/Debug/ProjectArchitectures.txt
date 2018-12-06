@@ -1,0 +1,1 @@
+B:\Documents\Licence Info\Maraudeur\Maraudeur\Maraudeur.UWP\Maraudeur.UWP.csproj;x86
